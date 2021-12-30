@@ -6,7 +6,7 @@ DEL = rm -rf
 CFLGAS += -std=c98
 CFLAGS += -D TEST
 CFLAGS += -g
-
+   
 OBJ_PATH = .
 BIN_PATH = .
 SRC_PATH = .
